@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Marcelo 👋</h1>
 
-<!--
-**MarcelooSa/MarcelooSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Estudante &nbsp;•&nbsp; ⚙️ Automação &nbsp;•&nbsp; 🤖 Inteligência Artificial
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante e gosto de transformar ideias em projetos reais usando tecnologia.
+
+Tenho me destacado principalmente no desenvolvimento de soluções envolvendo **automação e Inteligência Artificial**, explorando formas de tornar tarefas mais simples, rápidas e eficientes.
+
+Atualmente, meu foco está em:
+
+- ⚙️ Automação de tarefas e processos
+- 🤖 Integração de Inteligência Artificial
+- 🔗 APIs e integrações
+- 💡 Desenvolvimento de projetos e protótipos
+
+---
+
+<p align="center">
+  <b>Automação + IA para transformar ideias em soluções.</b>
+</p>
